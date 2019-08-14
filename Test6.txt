@@ -1,0 +1,11 @@
+10
+A 7
+B 3 A
+C 8 A
+D 1 B
+E 1 CD
+F 2 CD
+G 1 CD
+H 3 E
+I 2 H
+J 1 FGI

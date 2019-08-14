@@ -1,0 +1,11 @@
+10
+A 1 DEJ
+B 2 G
+C 3 FJ
+D 4
+E 5
+F 6
+G 7
+H 8 EG
+I 9 CAHB
+J 10

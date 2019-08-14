@@ -1,0 +1,11 @@
+10
+A 1 DJ
+B 2 G
+C 3 F
+D 4
+E 5 D
+F 6
+G 7
+H 8 EG
+I 9 ACH
+J 10 F
